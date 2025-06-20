@@ -4,3 +4,4 @@ scikit-learn>=1.5.1
 matplotlib>=3.9.2
 joblib>=1.4.2
 ydata-profiling>=4.16.1
+numpy>=1.26.4
